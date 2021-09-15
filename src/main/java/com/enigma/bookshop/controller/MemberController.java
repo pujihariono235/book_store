@@ -1,6 +1,6 @@
 package com.enigma.bookshop.controller;
 
-import com.enigma.bookshop.entity.Book;
+
 import com.enigma.bookshop.entity.Member;
 import com.enigma.bookshop.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
